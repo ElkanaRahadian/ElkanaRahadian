@@ -8,7 +8,7 @@ I have a desire to use my knowledge to build an impactful product that can help 
 
 I am fascinated by how mobile devices and applications influence our daily lives. I have always had a passion for iOS development and technology, which is reflected by my involvement in iOS Development Projects
 
-<h3 align="left">Languages & Technologies:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
   
   <a href="https://developer.apple.com/swift/" target="_blank"> 
