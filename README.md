@@ -1,4 +1,4 @@
-### Hello, I'm Arya 👋👋
+### Hello, I'm Elkana 👋👋
 
 <p align="left">I'm an iOS Engineer based in Jakarta.</p>
 
@@ -10,7 +10,7 @@
 
 📫 Mail me at elkanarahadian@gmail.com
 
-🍜 Fun fact : **I love noodles so much that i made an instagram account posting every noodles i cooked.**
+🍜 Fun fact : **HealthKit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
