@@ -17,7 +17,3 @@ I am fascinated by how mobile devices and applications influence our daily lives
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   </a> 
 </p>
-
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryasurya21&show_icons=true&theme=radical&title_color=f5ec00&locale=en" alt="aryasurya21" />
-</p>
