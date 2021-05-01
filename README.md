@@ -1,4 +1,4 @@
-### Hello, I'm Elkana 👋👋
+### Hi there, I'm <a href="https://elkanaantonio.com" target="_blank">Elkana Antonio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">I'm an iOS Engineer based in Jakarta.</p>
 
