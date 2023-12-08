@@ -4,9 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://elkanaantonio.com)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@elkanaantonio)
 
-I have a desire to use my knowledge to build an impactful product that can help people, especially those in my community.
+My goal is to use my expertise to create a useful product that can help people, particularly those in my community.
 
-I am fascinated by how mobile devices and applications influence our daily lives. I have always had a passion for iOS development and technology, which is reflected by my involvement in iOS Development Projects
+The way mobile apps and technology affect our daily lives inspires me. Being involved in iOS development projects is a reflection of my continued passion for technology and iOS development.
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
