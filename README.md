@@ -6,7 +6,7 @@
 
 My goal is to use my expertise to create a useful product that can help people, particularly those in my community.
 
-The way mobile apps and technology affect our daily lives inspires me. Being involved in iOS development projects is a reflection of my continued passion for technology and iOS development.
+The way mobile apps and technology affect our daily lives inspires me. Being involved in Mobile development projects is a reflection of my continued passion for technology and Mobile development.
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
